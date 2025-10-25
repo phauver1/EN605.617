@@ -1,0 +1,1 @@
+nvcc ./assignment.cu -o assignment -lcufft && ./assignment
